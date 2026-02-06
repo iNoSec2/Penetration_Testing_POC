@@ -737,6 +737,7 @@
 - [金和OA JHSoft.Web.CrmSystemSet/XMLHttp.aspx XXE漏洞](https://mrxn.net/jswz/jhsoft-CrmSystemSet-XMLHttp-xxe.html)
 - [孚盟云CRM AjaxWriteMail.ashx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Ajax-AjaxWriteMail-sqli.html)
 - [金和OA ExamineNodCommisionDefault.aspx XXE漏洞](https://mrxn.net/jswz/jhsoft-ExamineNodCommisionDefault-xxe.html)
+- [天地伟业Easy7 getActiveEffectTemp SQL注入漏洞](https://mrxn.net/jswz/easy7-obj-getActiveEffectTemp-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
