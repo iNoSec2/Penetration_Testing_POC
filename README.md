@@ -738,6 +738,8 @@
 - [孚盟云CRM AjaxWriteMail.ashx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Ajax-AjaxWriteMail-sqli.html)
 - [金和OA ExamineNodCommisionDefault.aspx XXE漏洞](https://mrxn.net/jswz/jhsoft-ExamineNodCommisionDefault-xxe.html)
 - [天地伟业Easy7 getActiveEffectTemp SQL注入漏洞](https://mrxn.net/jswz/easy7-obj-getActiveEffectTemp-sqli.html)
+- [天地伟业Easy7 downloadWordRecord 文件读取漏洞](https://mrxn.net/jswz/easy7-file-downloadWordRecord-file-read.html)
+- [大蚂蚁 (BigAnt) 即时通讯系统 upload_file 任意文件上传漏洞](https://mrxn.net/jswz/bigant-upload_file-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
