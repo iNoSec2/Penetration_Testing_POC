@@ -743,6 +743,7 @@
 - [天地伟业Easy7 queryPassword 信息泄露漏洞](https://mrxn.net/jswz/easy7-user-queryPassword-data-leak.html)
 - [天地伟业Easy7 queryUserbyDesc SQL注入漏洞](https://mrxn.net/jswz/easy7-user-queryUserbyDesc-sqli.html)
 - [天地伟业Easy7 downloadNote 文件读取漏洞](https://mrxn.net/jswz/easy7-file-downloadNote-file-read.html)
+- [天地伟业Easy7 uploadCheckImg 文件上传漏洞](https://mrxn.net/jswz/easy7-file-uploadCheckImg-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
