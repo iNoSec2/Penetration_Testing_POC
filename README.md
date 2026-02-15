@@ -747,6 +747,7 @@
 - [天地伟业Easy7 uploadMapServerBgImage 文件上传漏洞](https://mrxn.net/jswz/easy7-file-uploadMapServerBgImage-rce.html)
 - [天地伟业Easy7 queryDataByTypeEx SQL注入漏洞](https://mrxn.net/jswz/easy7-workbook-queryDataByTypeEx-sqli.html)
 - [天地伟业Easy7 downloadResource 文件读取漏洞](https://mrxn.net/jswz/easy7-file-downloadResource-file-read.html)
+- [东胜物流软件 OpSailingDateListHtmlGridSource.aspx SQL注入漏洞](https://mrxn.net/jswz/dongsheng-PriceCarrier-OpSailingDateListHtmlGridSource-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
