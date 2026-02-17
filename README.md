@@ -749,6 +749,7 @@
 - [天地伟业Easy7 downloadResource 文件读取漏洞](https://mrxn.net/jswz/easy7-file-downloadResource-file-read.html)
 - [东胜物流软件 OpSailingDateListHtmlGridSource.aspx SQL注入漏洞](https://mrxn.net/jswz/dongsheng-PriceCarrier-OpSailingDateListHtmlGridSource-sqli.html)
 - [东胜物流软件 OpSailingDateInfoGridSource.aspx SQL注入漏洞](https://mrxn.net/jswz/dongsheng-PriceCarrier-OpSailingDateInfoGridSource-sqli.html)
+- [东胜物流软件 HtmlSearchServiceLCL.aspx SQL注入漏洞](https://mrxn.net/jswz/dongsheng-PriceCarrier-HtmlSearchServiceLCL-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
