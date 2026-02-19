@@ -751,6 +751,7 @@
 - [东胜物流软件 OpSailingDateInfoGridSource.aspx SQL注入漏洞](https://mrxn.net/jswz/dongsheng-PriceCarrier-OpSailingDateInfoGridSource-sqli.html)
 - [东胜物流软件 HtmlSearchServiceLCL.aspx SQL注入漏洞](https://mrxn.net/jswz/dongsheng-PriceCarrier-HtmlSearchServiceLCL-sqli.html)
 - [东胜物流软件 CrmProxyMailListHtmlGridSource.aspx SQL注入漏洞](https://mrxn.net/jswz/dongsheng-PriceCarrier-CrmProxyMailListHtmlGridSource-sqli.html)
+- [东胜物流软件 CrmProxyMailListGridSource.aspx SQL注入漏洞](https://mrxn.net/jswz/dongsheng-PriceCarrier-CrmProxyMailListGridSource-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
