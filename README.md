@@ -753,6 +753,7 @@
 - [东胜物流软件 CrmProxyMailListHtmlGridSource.aspx SQL注入漏洞](https://mrxn.net/jswz/dongsheng-PriceCarrier-CrmProxyMailListHtmlGridSource-sqli.html)
 - [东胜物流软件 CrmProxyMailListGridSource.aspx SQL注入漏洞](https://mrxn.net/jswz/dongsheng-PriceCarrier-CrmProxyMailListGridSource-sqli.html)
 - [东胜物流软件 ModuleGridSource.aspx SQL注入漏洞](https://mrxn.net/jswz/dongsheng-Modules-ModuleGridSource-sqli.html)
+- [东胜物流软件 AttributeGridSource.aspx SQL注入漏洞](https://mrxn.net/jswz/dongsheng-Attributes-AttributeGridSource-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
