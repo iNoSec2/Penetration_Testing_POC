@@ -756,6 +756,8 @@
 - [东胜物流软件 AttributeGridSource.aspx SQL注入漏洞](https://mrxn.net/jswz/dongsheng-Attributes-AttributeGridSource-sqli.html)
 - [东胜物流软件 StorageController 多个SQL注入漏洞](https://mrxn.net/jswz/dongsheng-StorageController-sqli.html)
 - [东胜物流软件 MsOpSeaeController 多个SQL注入漏洞](https://mrxn.net/jswz/dongsheng-MsOpSeaeController-sqli.html)
+- [东胜物流软件 IPLimitController SQL注入漏洞](https://mrxn.net/jswz/dongsheng-IPLimit-UpdateIPAddress-sqli.html)
+- [大蚂蚁 (BigAnt) 即时通讯系统 DispersedOrgController 任意文件上传漏洞](https://mrxn.net/jswz/bigant-dispersedOrg-upload_file-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
