@@ -2147,6 +2147,7 @@
 - [go-memorydll：内存 dll 的 go 包装器](https://github.com/nkbai/go-memorydll)
 - [SQLJam：一个探索数据库查询新方法的 jam 项目](https://github.com/bvisness/SQLJam)
 - [Webpackfind：类似Packer-Fuzzer的Webpack自动化信息收集工具](https://github.com/xz-zone/Webpackfind)
+- [Webpack_extract：自动化收集js、自动化加载js、自动化分析js的Chrome插件](https://github.com/xz-zone/Webpack_extract)
 - [estk：查询和备份各种 Elasticsearch 和 Kibana 版本的数据工具](https://github.com/LeakIX/estk)
 - [webcgi-exploits：多语言 Web CGI 接口漏洞利用](https://github.com/wofeiwo/webcgi-exploits)
 - [TripleCross：A Linux eBPF rootkit with a backdoor](https://github.com/h3xduck/TripleCross)
