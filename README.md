@@ -781,6 +781,7 @@
 - [深信服运维安全管理系统 uninstall_patch 远程命令执行漏洞](https://mrxn.net/jswz/sangfor_osm-system-concentration_management-uninstall_patch-rce.html)
 - [深信服运维安全管理系统 get_clip_img 远程命令执行漏洞](https://mrxn.net/jswz/sangfor_osm-subforeign-audit-get_clip_img-rce.html)
 - [深信服运维安全管理系统 down_load 远程命令执行漏洞](https://mrxn.net/jswz/sangfor_osm-subforeign-audit-down_load-rce.html)
+- [深信服运维安全管理系统 port_validate 远程命令执行漏洞](https://mrxn.net/jswz/sangfor_osm-ip_and_port-port_validate-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
