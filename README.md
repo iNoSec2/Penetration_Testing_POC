@@ -785,6 +785,7 @@
 - [深信服运维安全管理系统 save_strategy 远程命令执行漏洞](https://mrxn.net/jswz/sangfor_osm-system-node_management-save_strategy-rce.html)
 - [深信服运维安全管理系统 generate_certificate 远程命令执行漏洞](https://mrxn.net/jswz/sangfor_osm-outServices-generate_certificate-rce.html)
 - [深信服运维安全管理系统 update_date 远程命令执行漏洞](https://mrxn.net/jswz/sangfor_osm-timeSet-update_date-rce.html)
+- [深信服运维安全管理系统 upload_CN 远程命令执行漏洞](https://mrxn.net/jswz/sangfor_osm-system-version-upload_CN-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
