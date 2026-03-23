@@ -786,6 +786,7 @@
 - [深信服运维安全管理系统 generate_certificate 远程命令执行漏洞](https://mrxn.net/jswz/sangfor_osm-outServices-generate_certificate-rce.html)
 - [深信服运维安全管理系统 update_date 远程命令执行漏洞](https://mrxn.net/jswz/sangfor_osm-timeSet-update_date-rce.html)
 - [深信服运维安全管理系统 upload_CN 远程命令执行漏洞](https://mrxn.net/jswz/sangfor_osm-system-version-upload_CN-rce.html)
+- [深科特 LEAN MES系统 ChooseLineAndRes.ashx SQL注入漏洞](https://mrxn.net/jswz/lean-mes-ChooseLineAndRes-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
