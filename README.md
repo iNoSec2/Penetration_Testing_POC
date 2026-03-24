@@ -791,6 +791,7 @@
 - [深科特 LEAN MES系统 ChooseLineAndRes.ashx SQL 注入漏洞](https://mrxn.net/jswz/lean-mes-ChooseLineAndRes-sqli.html)
 - [深科特 LEAN MES系统 /Handler/SMTLoadingMaterial.ashx SQL注入漏洞](https://mrxn.net/jswz/lean-mes-SMTLoadingMaterial-sqli.html)
 - [深科特 LEAN MES系统 EquipmentTree.ashx SQL注入漏洞](https://mrxn.net/jswz/lean-mes-EquipmentTree-sqli.html)
+- [深科特 LEAN MES系统 UploadPortraits.ashx 文件上传漏洞](https://mrxn.net/jswz/lean-mes-UploadPortraits-fileupload-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
