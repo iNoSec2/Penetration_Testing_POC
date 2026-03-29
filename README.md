@@ -794,6 +794,7 @@
 - [深科特 LEAN MES系统 /Handler/MobileAppLogin.ashx SQL注入漏洞](https://mrxn.net/jswz/lean-mes-MobileAppLogin-sqli.html)
 - [深科特 LEAN MES系统 DownLoad.aspx 任意文件读取漏洞](https://mrxn.net/jswz/lean-mes-DownLoad-fileread.html)
 - [深科特 LEAN MES系统 PrintUpdate.ashx 任意文件读取/上传/删除漏洞](https://mrxn.net/jswz/lean-mes-PrintUpdate-fileupload-rce-fileread.html)
+- [深科特 LEAN MES系统 TestManagePlatform.ashx SQL注入漏洞](https://mrxn.net/jswz/lean-mes-TestManagePlatform-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
