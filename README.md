@@ -799,6 +799,7 @@
 - [深科特 LEAN MES系统 CreateMenus.aspx 任意文件上传漏洞](https://mrxn.net/jswz/lean-mes-CreateMenus-fileuplaod-rce.html)
 - [深科特 LEAN MES系统 AutoComplete.ashx SQL注入漏洞](https://mrxn.net/jswz/lean-mes-AutoComplete-sqli.html)
 - [深科特 LEAN MES系统 ChooseImage.aspx 任意文件上传/删除漏洞](https://mrxn.net/jswz/lean-mes-ChooseImage-fileupload-rce-filedel.html)
+- [深科特 LEAN MES系统 SetDataSource.aspx SQL注入漏洞](https://mrxn.net/jswz/lean-mes-SetDataSource-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
