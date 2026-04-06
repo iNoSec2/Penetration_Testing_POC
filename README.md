@@ -83,6 +83,7 @@
 - [路由器dd手动提取固件---迅捷PoEAC路由一体机FR100P-AC固件提取](./books/路由器dd手动提取固件---迅捷PoEAC路由一体机FR100P-AC固件提取.html)
 - [NX_Firmware：任天堂Switch各版本固件数据库](https://github.com/THZoria/NX_Firmware)
 - [vphone-aio：一键运行已越狱并安装完整bootstrap的iOS虚拟手机(vphone)脚本](https://github.com/34306/vphone-aio)
+- [FirmWire：支持三星 Shannon 和 MediaTek 基带固件的全系统动态分析平台，可用于模糊测试、漏洞根因分析与调试](https://github.com/FirmWire/FirmWire)
 
 ## <span id="head4">Web APP</span>
 
@@ -805,6 +806,7 @@
 - [深科特 LEAN MES系统 ChooseImage.aspx 任意文件上传/删除漏洞](https://mrxn.net/jswz/lean-mes-ChooseImage-fileupload-rce-filedel.html)
 - [深科特 LEAN MES系统 SetDataSource.aspx SQL注入漏洞](https://mrxn.net/jswz/lean-mes-SetDataSource-sqli.html)
 - [CLIProxyAPI /v1internal:method 未授权访问漏洞](https://mrxn.net/news/CLIProxyAPI-v1internal-method-unauthorized-access.html)
+- [shannon：面向 Web 应用与 API 的自主 AI 渗透测试工具，支持代码感知动态漏洞挖掘与自动化 PoC 验证](https://github.com/KeygraphHQ/shannon)
 
 
 ## <span id="head5"> 提权辅助相关</span>
