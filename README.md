@@ -802,6 +802,7 @@
 - [深科特 LEAN MES系统 SetDataSource.aspx SQL注入漏洞](https://mrxn.net/jswz/lean-mes-SetDataSource-sqli.html)
 - [孚盟云CRM AjaxTrackInfo.ashx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-AjaxTrackInfo-sqli.html)
 - [孚盟云CRM DingHandler.ashx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-DingHandler-sqli.html)
+- [孚盟云CRM PriceList.ashx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-PriceList-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
