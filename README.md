@@ -805,6 +805,7 @@
 - [孚盟云CRM PriceList.ashx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-PriceList-sqli.html)
 - [孚盟云CRM WorkFlowHandler.ashx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-WorkFlowHandler-sqli.html)
 - [孚盟云CRM AddInquiry.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-AddInquiry-sqli.html)
+- [孚盟云CRM OrderLook.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-OrderLook-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
