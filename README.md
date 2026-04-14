@@ -807,6 +807,7 @@
 - [孚盟云CRM AddInquiry.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-AddInquiry-sqli.html)
 - [孚盟云CRM OrderLook.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-OrderLook-sqli.html)
 - [孚盟云CRM FormDefault.aspx、FormDefaultCommon.aspx 多处SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-FormDefault-sqli.html)
+- [天地伟业Easy7 queryRoomName SQL注入漏洞](https://mrxn.net/jswz/easy7-rest-inquestRoom-queryRoomName-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
