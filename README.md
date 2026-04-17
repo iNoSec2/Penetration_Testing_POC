@@ -810,6 +810,7 @@
 - [天地伟业Easy7 queryRoomName SQL注入漏洞](https://mrxn.net/jswz/easy7-rest-inquestRoom-queryRoomName-sqli.html)
 - [天地伟业Easy7 UploadOwnerImage.jsp 文件上传漏洞](https://mrxn.net/jswz/easy7-apps-WebService-UploadOwnerImage-rce.html)
 - [天地伟业Easy7 queryRoomConfigs SQL注入漏洞](https://mrxn.net/jswz/easy7-rest-inquestRoom-queryRoomConfigs-sqli.html)
+- [mdserver-web(夸父面板)≤0.18.4 多处未授权访问 + 信息泄露 + RCE 漏洞分析](https://mrxn.net/jswz/mdserver-web-unauthentication-bypass-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
