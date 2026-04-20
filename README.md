@@ -813,6 +813,7 @@
 - [mdserver-web(夸父面板)≤0.18.4 多处未授权访问 + 信息泄露 + RCE 漏洞分析](https://mrxn.net/jswz/mdserver-web-unauthentication-bypass-rce.html)
 - [天地伟业Easy7 getInquestIdByRoomId SQL注入漏洞](https://mrxn.net/jswz/easy7-rest-inquestRoom-getInquestIdByRoomId-sqli.html)
 - [天地伟业Easy7 getInquestRoomChannelInfo SQL注入漏洞](https://mrxn.net/jswz/1422.html)
+- [V2Board 信息泄露漏洞至权限绕过接管账户（CVE-2026-39912）分析复现](https://mrxn.net/jswz/v2board-data-leak-authentication-bypass.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
