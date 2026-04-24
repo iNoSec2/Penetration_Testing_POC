@@ -817,6 +817,7 @@
 - [天地伟业Easy7 isHashCameraAuth SQL注入漏洞](https://mrxn.net/jswz/easy7-rest-inquestRoom-isHashCameraAuth-sqli.html)
 - [天地伟业Easy7 getConfigInfoList SQL注入漏洞](https://mrxn.net/jswz/easy7-rest-inquestRoom-getConfigInfoList-sqli.html)
 - [天地伟业Easy7 capture 命令执行漏洞](https://mrxn.net/jswz/easy7-rest-file-capture-rce.html)
+- [天地伟业Easy7 uploadLedImage 文件上传漏洞](https://mrxn.net/jswz/easy7-rest-file-uploadLedImage-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
