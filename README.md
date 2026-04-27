@@ -819,6 +819,7 @@
 - [天地伟业Easy7 capture 命令执行漏洞](https://mrxn.net/jswz/easy7-rest-file-capture-rce.html)
 - [天地伟业Easy7 uploadLedImage 文件上传漏洞](https://mrxn.net/jswz/easy7-rest-file-uploadLedImage-rce.html)
 - [天地伟业Easy7 /Easy7/rest/file/downloadFile 文件读取漏洞](https://mrxn.net/jswz/easy7-rest-file-downloadFile.html)
+- [天地伟业Easy7 /Easy7/rest/file/uploadIdsHttpFile SSRF+文件写入漏洞](https://mrxn.net/jswz/easy7-rest-file-uploadIdsHttpFile-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
