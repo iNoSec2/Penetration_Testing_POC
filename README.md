@@ -821,6 +821,7 @@
 - [天地伟业Easy7 /Easy7/rest/file/downloadFile 文件读取漏洞](https://mrxn.net/jswz/easy7-rest-file-downloadFile.html)
 - [天地伟业Easy7 /Easy7/rest/file/uploadIdsHttpFile SSRF+文件写入漏洞](https://mrxn.net/jswz/easy7-rest-file-uploadIdsHttpFile-rce.html)
 - [孚盟云CRM CustomizeReportSelectMould.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-CustomizeReport-CustomizeReportSelectMould-sqli.html)
+- [孚盟云CRM ClientNameCard.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Card-ClientNameCard-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
