@@ -823,6 +823,7 @@
 - [孚盟云CRM CustomizeReportSelectMould.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-CustomizeReport-CustomizeReportSelectMould-sqli.html)
 - [孚盟云CRM ClientNameCard.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Card-ClientNameCard-sqli.html)
 - [孚盟云CRM BusinessPrice.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Product-BusinessPrice-sqli.html)
+- [孚盟云CRM BusinessPriceListList.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Product-BusinessPriceList-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
