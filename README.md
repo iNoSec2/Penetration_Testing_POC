@@ -824,6 +824,7 @@
 - [孚盟云CRM ClientNameCard.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Card-ClientNameCard-sqli.html)
 - [孚盟云CRM BusinessPrice.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Product-BusinessPrice-sqli.html)
 - [孚盟云CRM BusinessPriceListList.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Product-BusinessPriceList-sqli.html)
+- [天地伟业Easy7 /Easy7/rest/file/uploadFile 文件上传漏洞](https://mrxn.net/jswz/easy7-rest-file-uploadFile-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
