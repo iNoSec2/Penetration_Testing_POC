@@ -828,6 +828,7 @@
 - [天地伟业Easy7 /Easy7/rest/file/download 文件读取漏洞](https://mrxn.net/jswz/easy7-rest-file-download-fileread.html)
 - [天地伟业Easy7 /Easy7/rest/user/getAuthorityByUserId SQL注入漏洞](https://mrxn.net/jswz/easy7-rest-user-getAuthorityByUserId-sqli.html)
 - [天地伟业Easy7 /Easy7/rest/user/IsPermissible SQL注入漏洞](https://mrxn.net/jswz/easy7-rest-user-IsPermissible-sqli.html)
+- [天地伟业Easy7 /Easy7/rest/user/getAuthorityByUserId SQL注入漏洞](https://mrxn.net/jswz/easy7-rest-user-getAuthorityByUserId-sqli-2.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
