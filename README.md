@@ -831,6 +831,7 @@
 - [天地伟业Easy7 /Easy7/rest/user/getAuthorityByUserId SQL注入漏洞](https://mrxn.net/jswz/easy7-rest-user-getAuthorityByUserId-sqli-2.html)
 - [孚盟云CRM BusinessPriceReport.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Product-BusinessPriceReport-sqli.html)
 - [孚盟云CRM BusinessPriceOk.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Product-BusinessPriceOk-sqli.html)
+- [孚盟云CRM BusiPriceOkPrint.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Product-BusiPriceOkPrint-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
