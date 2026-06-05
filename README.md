@@ -838,6 +838,7 @@
 - [孚盟云CRM Price_detail.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Product-Price_detail-sqli.html)
 - [孚盟云CRM Inquiry.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Product-Inquiry-sqli.html)
 - [孚盟云CRM AjaxProductList.ashx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Ajax-AjaxProductList-sqli.html)
+- [孚盟云CRM ProductList.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Product-ProductList-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
