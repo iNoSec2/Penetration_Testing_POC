@@ -847,6 +847,7 @@
 - [孚盟云CRM ProductDetail.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Product-ProductDetail-sqli.html)
 - [大蚂蚁 (BigAnt) 即时通讯系统 user_expire_post SQL注入漏洞](https://mrxn.net/jswz/bigant-admin-dept-user_expire_post-sqli.html)
 - [大蚂蚁 (BigAnt) 即时通讯系统 uploadMultipleFile 任意文件上传漏洞](https://mrxn.net/jswz/bigant-addin-Upload-uploadMultipleFile-rce.html)
+- [大蚂蚁 (BigAnt) 即时通讯系统 Pan/Upload/upload 文件上传漏洞](https://mrxn.net/jswz/bigant-Pan-Upload-upload.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
