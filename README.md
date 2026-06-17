@@ -851,6 +851,7 @@
 - [大蚂蚁 (BigAnt) 即时通讯系统 getFileTrueAddress SQL注入漏洞](https://mrxn.net/jswz/bigant-pan-file-getFileTrueAddress-sqli.html)
 - [大蚂蚁 (BigAnt) 即时通讯系统 downloadSharedFile 任意文件读取漏洞](https://mrxn.net/jswz/bigant-ShareUrl-downloadSharedFile-fileread.html)
 - [大蚂蚁 (BigAnt) 即时通讯系统 clearUserDevice SQL注入漏洞](https://mrxn.net/jswz/bigant-admin-user-clearUserDevice-sqli.html)
+- [大蚂蚁 (BigAnt) 即时通讯系统 admin/secret/edit SQL注入漏洞](https://mrxn.net/jswz/bigant-admin-secret-edit-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
