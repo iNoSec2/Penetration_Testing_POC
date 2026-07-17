@@ -853,6 +853,7 @@
 - [大蚂蚁 (BigAnt) 即时通讯系统 clearUserDevice SQL注入漏洞](https://mrxn.net/jswz/bigant-admin-user-clearUserDevice-sqli.html)
 - [大蚂蚁 (BigAnt) 即时通讯系统 admin/secret/edit SQL注入漏洞](https://mrxn.net/jswz/bigant-admin-secret-edit-sqli.html)
 - [大蚂蚁 (BigAnt) 即时通讯系统 admin/Upload/upload 文件上传漏洞](https://mrxn.net/jswz/bigant-admin-Upload-upload-rce.html)
+- [用友U8Cloud XChangeServlet SQL注入漏洞+XXE漏洞](https://mrxn.net/jswz/yonyou-u8c-XChangeServlet-xxe-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
