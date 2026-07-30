@@ -856,6 +856,7 @@
 - [用友U8Cloud XChangeServlet SQL注入漏洞+XXE漏洞](https://mrxn.net/jswz/yonyou-u8c-XChangeServlet-xxe-sqli.html)
 - [Fastjson 1.2.83 默认配置下的远程代码执行RCE](https://mrxn.net/jswz/fastjson-1-2-83-default-config-rce.html)
 - [用友U8Cloud extsystem.dst 接口SQL注入漏洞](https://mrxn.net/jswz/yonyou-u8c-extsystem-dst-sqli.html)
+- [金和OA C6 PlanGiveOut.aspx SQL注入漏洞+越权访问IDOR漏洞+XSS漏洞](https://mrxn.net/jswz/jhsoft-PlanGiveOut-planid-httpOID-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
