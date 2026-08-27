@@ -859,6 +859,7 @@
 - [金和OA C6 PlanGiveOut.aspx SQL注入漏洞+越权访问IDOR漏洞+XSS漏洞](https://mrxn.net/jswz/jhsoft-PlanGiveOut-planid-httpOID-sqli.html)
 - [用友GRP-U8Cloud产品jmreport组件模块Freemarker模板SSTI致RCE漏洞分析](https://mrxn.net/jswz/yonyou-grp-u8c-jmreport-Freemarker-rce.html)
 - [普华PowerPMS snapshot.aspx 命令注入漏洞+SQL注入漏洞+JWT硬编码密钥漏洞](https://mrxn.net/jswz/powerpms-PowerPlat-FormXml-snapshot-rce-sqli-jwt-auth-bypass.html)
+- [森鑫炬水务企业综合运营平台代码审计(文件读取漏洞+文件上传漏洞+权限绕过漏洞+信息泄漏漏洞)](https://mrxn.net/jswz/1491.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
