@@ -860,6 +860,7 @@
 - [用友GRP-U8Cloud产品jmreport组件模块Freemarker模板SSTI致RCE漏洞分析](https://mrxn.net/jswz/yonyou-grp-u8c-jmreport-Freemarker-rce.html)
 - [普华PowerPMS snapshot.aspx 命令注入漏洞+SQL注入漏洞+JWT硬编码密钥漏洞](https://mrxn.net/jswz/powerpms-PowerPlat-FormXml-snapshot-rce-sqli-jwt-auth-bypass.html)
 - [森鑫炬水务企业综合运营平台代码审计(文件读取漏洞+文件上传漏洞+权限绕过漏洞+信息泄漏漏洞)](https://mrxn.net/jswz/1491.html)
+- [森鑫炬水务企业综合运营平台代码审计(文件读取漏洞+文件上传漏洞+权限绕过漏洞+信息泄漏漏洞)](https://mrxn.net/jswz/sntsmart-file-upload-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
