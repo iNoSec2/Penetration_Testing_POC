@@ -864,6 +864,8 @@
 - [JimuReport积木报表最新版v2.5.1 queryFieldBySql 接口SQL注入绕过漏洞](https://mrxn.net/jswz/jimureport-v2-5-1-queryfieldbysql-firewall-bypass-sqli.html)
 - [JimuReport积木报表最新版v2.5.1 /jmreport/excelQueryByTemplate接口未认证报表枚举信息泄露漏洞](https://mrxn.net/jswz/jimureport-v2-5-1-excelquerybytemplate-enum-data-leak.html)
 - [JimuReport积木报表/jmreport/auto/export接口未授权导出与表达式注入RCE漏洞](https://mrxn.net/jswz/jimureport-v2-5-0-autoexport-unauth-export-aviator-rce.html)
+- [JimuReport积木报表最新版v2.5.1 upload与数据源组合的H2 zip协议链RCE漏洞](https://mrxn.net/jswz/jimureport-v2-5-1-h2-zip-chain-rce.html)
+- [JimuReport积木报表最新版v2.5.1 testConnection接口H2的INIT参数unicode大小写绕过RCE漏洞](https://mrxn.net/jswz/jimureport-v2-5-1-testconnection-h2-init-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
