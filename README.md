@@ -868,6 +868,7 @@
 - [JimuReport积木报表最新版v2.5.1 testConnection接口H2的INIT参数unicode大小写绕过RCE漏洞](https://mrxn.net/jswz/jimureport-v2-5-1-testconnection-h2-init-rce.html)
 - [浪潮CRM(医疗行业版)ConNetHelp.ashx SQL注入漏洞挖掘和分析](https://mrxn.net/jswz/Genersoft-Login-ConNetHelp-conditiondefine-ConNetHelp-sqli.html)
 - [明天医网科技 医技信息集成平台 DocumentService DocumentByPath 任意文件读取漏洞](https://mrxn.net/jswz/tomtaw-DocumentService-Download-DocumentByPath-path-file-read.html)
+- [mihomo系客户端内置Sub-Store v2.11.4-2.37.1 38324端口未鉴权ScriptOperator RCE漏洞](https://mrxn.net/jswz/sub-store-38324-unauth-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
