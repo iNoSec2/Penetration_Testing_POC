@@ -869,6 +869,8 @@
 - [浪潮CRM(医疗行业版)ConNetHelp.ashx SQL注入漏洞挖掘和分析](https://mrxn.net/jswz/Genersoft-Login-ConNetHelp-conditiondefine-ConNetHelp-sqli.html)
 - [明天医网科技 医技信息集成平台 DocumentService DocumentByPath 任意文件读取漏洞](https://mrxn.net/jswz/tomtaw-DocumentService-Download-DocumentByPath-path-file-read.html)
 - [mihomo系客户端内置Sub-Store v2.11.4-2.37.1 38324端口未鉴权ScriptOperator RCE漏洞](https://mrxn.net/jswz/sub-store-38324-unauth-rce.html)
+- [CRMEB系统最新版v6.0.0 update_mark接口SQL注入漏洞](https://mrxn.net/jswz/crmeb-v4-update-mark-sqli.html)
+- [ShowDoc系统最新版v3.9.3template_save接口内容注入绕过修复RCE漏洞](https://mrxn.net/jswz/showdoc-template-save-content-injection-fix-bypass-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
