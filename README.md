@@ -871,6 +871,9 @@
 - [mihomo系客户端内置Sub-Store v2.11.4-2.37.1 38324端口未鉴权ScriptOperator RCE漏洞](https://mrxn.net/jswz/sub-store-38324-unauth-rce.html)
 - [CRMEB系统最新版v6.0.0 update_mark接口SQL注入漏洞](https://mrxn.net/jswz/crmeb-v4-update-mark-sqli.html)
 - [ShowDoc系统最新版v3.9.3template_save接口内容注入绕过修复RCE漏洞](https://mrxn.net/jswz/showdoc-template-save-content-injection-fix-bypass-rce.html)
+- [友加畅捷管理系统 UploadFormImg.ashx文件上传漏洞（CVE-2026-86272）](https://mrxn.net/jswz/youjia-uploadformimg-uploadimgfile-rce.html)
+- [CRMEB系统最新版v6.0.0 backup_read接口SQL注入漏洞](https://mrxn.net/jswz/crmeb-v2-backup-read-sqli.html)
+- [JimuReport积木报表最新版v2.5.1 auto/export/python/plugin 接口硬编码签名密钥绕过未认证导出漏洞与Aviator沙箱逃逸RCE漏洞](https://mrxn.net/jswz/jimureport-v2-5-1-python-plugin-sign-bypass.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
