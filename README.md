@@ -874,6 +874,8 @@
 - [友加畅捷管理系统 UploadFormImg.ashx文件上传漏洞（CVE-2026-86272）](https://mrxn.net/jswz/youjia-uploadformimg-uploadimgfile-rce.html)
 - [CRMEB系统最新版v6.0.0 backup_read接口SQL注入漏洞](https://mrxn.net/jswz/crmeb-v2-backup-read-sqli.html)
 - [JimuReport积木报表最新版v2.5.1 auto/export/python/plugin 接口硬编码签名密钥绕过未认证导出漏洞与Aviator沙箱逃逸RCE漏洞](https://mrxn.net/jswz/jimureport-v2-5-1-python-plugin-sign-bypass.html)
+- [索贝融媒体 getOmnfig 接口配置信息泄露漏洞](https://mrxn.net/jswz/sobey-mch-getomnfig-config-leak.html)
+- [孚盟云CRM ReceivableList.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Receivables-ReceivableList-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
