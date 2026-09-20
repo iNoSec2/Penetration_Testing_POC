@@ -883,6 +883,7 @@
 - [ChanCMS-v3.3.0存在SQL注入漏洞](https://mrxn.net/jswz/ChanCMS-search-key-sqli.html)
 - [ChanCMS-v3.3.0存在远程代码执行漏洞](https://mrxn.net/jswz/ChanCMS-collect-getArticle-rce.html)
 - [正方数字化校园门户存在SQL注入](https://mrxn.net/jswz/zfsoft-dwr-CalendarNewsAjax-getlatestNewsList-sqli.html)
+- [CRMEB系统最新版v6.0.0theme_import接口zip解压RCE漏洞](https://mrxn.net/jswz/crmeb-adminapi-theme-import-zip-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
