@@ -900,6 +900,9 @@
 - [用友U8+ EIS SyncService 未授权任意文件上传命令执行漏洞](https://mrxn.net/jswz/U8-EIS-SyncService-upload-rce.html)
 - [用友U8+ EIS ConfigService 未授权敏感配置信息泄露漏洞](https://mrxn.net/jswz/U8-EIS-ConfigService-data-leak.html)
 - [用友U8+ DSaaS分析云 未授权文件读取后门令牌伪造与连接串注入漏洞](https://mrxn.net/jswz/U8-DSaaS-data-leak.html)
+- [用友U8+ UFFileManagerServices WebUploadServices 未授权任意文件写命令执行漏洞](https://mrxn.net/jswz/U8-UFFileManagerServices-WebUploadServices-rce.html)
+- [用友U8+ U8AuditWebSite U8ForWhereServices 未授权任意文件写命令执行漏洞](https://mrxn.net/jswz/U8-U8AuditWebSite-U8ForWhereServices-rce.html)
+- [用友U8+ PFWeb U8BM WebParamServiceBroker 未授权任意程序集反射调用代码执行漏洞](https://mrxn.net/jswz/U8-PFWeb-U8BM-WebParamServiceBroker-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
