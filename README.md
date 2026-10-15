@@ -905,6 +905,10 @@
 - [用友U8+ PFWeb U8BM WebParamServiceBroker 未授权任意程序集反射调用代码执行漏洞](https://mrxn.net/jswz/U8-PFWeb-U8BM-WebParamServiceBroker-rce.html)
 - [友加畅捷管理系统标准版  GetFullIDFullPath接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-baseinfo-GetFullIDFullPath-sqli.html)
 - [友加畅捷管理系统标准版 CreateImage接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-baseinfo-CreateImage-sqli.html)
+- [友加畅捷管理系统标准版 Image接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-baseinfo-Image-sqli.html)
+- [友加畅捷管理系统标准版 GetParentIDInfoByTabName接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-baseinfo-GetParentIDInfoByTabName-sqli.html)
+- [友加畅捷管理系统标准版  getOpersmap接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-baseinfo-getOpersmap-sqli.html)
+- [友加畅捷管理系统标准版  GetLoginUserImg接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-baseinfo-GetLoginUserImg-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
