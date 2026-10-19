@@ -918,6 +918,9 @@
 - [友加畅捷管理系统标准版 GetCommonCustList接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-GetCommonCustList-sqli.html)
 - [友加畅捷管理系统标准版 GetAllContextMenuCustom接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-GetAllContextMenuCustom-sqli.html)
 - [友加畅捷管理系统标准版 GetAccountList接口信息泄露漏洞](https://mrxn.net/jswz/youjiasoft-Pos-GetAccountList-data-leak.html)
+- [友加畅捷管理系统标准版 GetQueryConditionGroup接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-GetQueryConditionGroup-sqli.html)
+- [友加畅捷管理系统标准版 GetGridHeadData接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-GetGridHeadData-sqli.html)
+- [友加畅捷管理系统标准版 GetEmpZH接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-GetEmpZH-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
