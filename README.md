@@ -921,6 +921,9 @@
 - [友加畅捷管理系统标准版 GetQueryConditionGroup接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-GetQueryConditionGroup-sqli.html)
 - [友加畅捷管理系统标准版 GetGridHeadData接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-GetGridHeadData-sqli.html)
 - [友加畅捷管理系统标准版 GetEmpZH接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-GetEmpZH-sqli.html)
+- [友加畅捷管理系统标准版 SaveQueryConditionGroup接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-SaveQueryConditionGroup-sqli.html)
+- [友加畅捷管理系统标准版 SaveDefaultQueryConditionGroup接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-SaveDefaultQueryConditionGroup-sqli.html)
+- [友加畅捷管理系统标准版 SaveCancelDefaultQueryConditionGroup接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-SaveCancelDefaultQueryConditionGroup-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
