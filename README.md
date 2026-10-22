@@ -928,6 +928,10 @@
 - [友加畅捷管理系统标准版 GetProductStorNumber接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Repair-GetProductStorNumber-sqli.html)
 - [友加畅捷管理系统标准版  GetNewStatusJJD接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Repair-GetNewStatusJJD-sqli.html)
 - [友加畅捷管理系统标准版 SaveQueryConditionGroupName接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Public-SaveQueryConditionGroupName-sqli.html)
+- [友加畅捷管理系统标准版 ReportClassAll接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-ReportClassAll-sqli.html)
+- [亿赛通 UnInstallApplication接口未授权SQL 注入漏洞](https://mrxn.net/jswz/CDGServer3-UnInstallApplication-sqli.html)
+- [友加畅捷管理系统标准版 GetBenYeClass接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-GetBenYeClass-sqli.html)
+- [PHP “php2shell”（CVE-2026-109618/109619）：从 session.upload_progress 到多条 RCE 攻击链](https://mrxn.net/jswz/php-session-upload_progress-rce-fixes-ways.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
