@@ -942,6 +942,7 @@
 - [友加畅捷管理系统标准版 NewZtManager接口未授权访问致信息泄露漏洞](https://mrxn.net/jswz/youjiasoft-env-setup-2.html)
 - [友加畅捷管理系统标准版 GetVIPCodeByKey接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-VIPCard-GetVIPCodeByKey-sqli.html)
 - [友加畅捷管理系统标准版 GetVIPCardCode接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-VIPCard-GetVIPCardCode-sqli.html)
+- [友加畅捷管理系统最新版 HttpUploadHandler.ashx接口任意文件上传漏洞](https://mrxn.net/jswz/youjiasoft-HttpUploadHandler-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
