@@ -944,6 +944,7 @@
 - [友加畅捷管理系统标准版 GetVIPCardCode接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-VIPCard-GetVIPCardCode-sqli.html)
 - [友加畅捷管理系统最新版 HttpUploadHandler.ashx接口任意文件上传漏洞](https://mrxn.net/jswz/youjiasoft-HttpUploadHandler-rce.html)
 - [友加畅捷管理系统最新版 UploadHandler.ashx接口任意文件上传漏洞](https://mrxn.net/jswz/youjiasoft-Report-Upload-UploadFormImg-rce-2.html)
+- [WordPress v7.1.3核心升级窗口StagedInstaller未授权RCE漏洞](https://mrxn.net/jswz/wordpress-StagedInstaller-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
