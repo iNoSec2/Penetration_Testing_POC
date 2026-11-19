@@ -946,6 +946,7 @@
 - [友加畅捷管理系统最新版 UploadHandler.ashx接口任意文件上传漏洞](https://mrxn.net/jswz/youjiasoft-Report-Upload-UploadFormImg-rce-2.html)
 - [WordPress v7.1.3核心升级窗口StagedInstaller未授权RCE漏洞](https://mrxn.net/jswz/wordpress-StagedInstaller-rce.html)
 - [用友GRP-U8Cloud getSjjk 接口SQL注入漏洞分析复现](https://mrxn.net/jswz/yongyou-GRP-U8Cloud-getSjjk-sqli.html)
+- [Java4Shell（CVE-2026-114938）：Base64 解码器里的越界写如何导致未认证 RCE漏洞](https://mrxn.net/jswz/openjdk-java4shell-CVE-2026-114938-base64-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
